@@ -359,9 +359,11 @@ Para abrir o arquivo `.pkt`, é necessário utilizar o **Cisco Packet Tracer**.
 
 # Material de estudo
 
-Também está disponível neste repositório o PDF que produzi para organizar meus estudos sobre as Classes A, B e C.
+Para compreender melhor o conteúdo e organizar minha parte da apresentação, elaborei um material de estudo sobre as Classes A, B e C.
 
-### [Material de estudo — Classes de Rede IPv4](docs/material-estudo-classes-ipv4.pdf)
+Este PDF foi produzido individualmente como apoio para estudo e preparação da apresentação do trabalho em grupo.
+
+### [Abrir o PDF — Classes de Rede IPv4 A, B e C](docs/trabalho_classes_rede_ipv4_revisado.pdf)
 
 O documento foi produzido como material pessoal de apoio para:
 
